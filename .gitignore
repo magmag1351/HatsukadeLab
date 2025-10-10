@@ -209,6 +209,7 @@ __marimo__/
 # 解析結果等を格納
 ComWAVE/source/bmp/
 ComWAVE/source/dat/
+ComWAVE/source/csv/
 ComWAVE/output/
 Research/source/csv/
 Research/output/
